@@ -1,9 +1,12 @@
 ---
 title: Mauritania Mining Services
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+subtitle: >-
+  Our focus is on applying the expertise of our employees to attractive projects
+  while pledging to deliver leading technology and overriding commitment to safe
+  practices.
+image: /img/home-smoke.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Us?
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
