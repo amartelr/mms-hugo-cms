@@ -1,7 +1,8 @@
 ---
-title: Sections
+title: Sectors
+type: sectors
 image: /img/about-jumbotron.jpg
-values:
+sectors:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
     text: >
