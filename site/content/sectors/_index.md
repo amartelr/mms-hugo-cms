@@ -1,6 +1,6 @@
 ---
 title: Sectors
-image: /img/about-jumbotron.jpg
+image: /img/sectors.jpg
 sectors:
   - heading: Remote Sites
     imageUrl: /img/remote_site.jpg
