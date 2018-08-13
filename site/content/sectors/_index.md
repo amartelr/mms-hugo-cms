@@ -1,42 +1,53 @@
 ---
 title: Sectors
-type: sectors
 image: /img/about-jumbotron.jpg
 sectors:
-  - heading: Shade-grown coffee
+  - heading: Remote Sites
     imageUrl: /img/about-shade-grown.jpg
     text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
-  - heading: Single origin
+      We through the experience gained serving the Oil & Gas, mining or
+      construction industries is a specialist in anticipating the client’ s
+      needs, offering them solutions that will improve their quality of life so
+      they feel at home when they are working in remote locations, hundreds of
+      miles away or in areas with difficult access.
+  - heading: Facility Management
     imageUrl: /img/about-single-origin.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-  - heading: Sustainable farming
+    text: >-
+      We on an extended experience in the outsourcing services market and offers
+      companies the most adequate and competitive solutions to promote your
+      activities and improve your results.
+  - heading: Helthcare
     imageUrl: /img/about-sustainable-farming.jpg
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-  - heading: Direct sourcing
+    text: >-
+      We provide cleaning and sanitizing solutions at the highest quality
+      levels, sourcing the most effective products from around the world and
+      delivering them to any geographical location to exceed our customers’
+      specifications.
+  - heading: Training
     imageUrl: /img/about-direct-sourcing.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-  - heading: Reinvest profits
+    text: >-
+      We provides services in educational centers and universities. Offering our
+      know-how adapting to the institutions’ requirements to optimize the
+      available resources and offer the optimum solution to guarantee an
+      excellent service.
+  - heading: Sport & Leisure
     imageUrl: /img/about-reinvest-profits.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    text: >-
+      Our workforce is made up of a multidisciplinary team of internationally
+      renowned expert football professionals (UEFA A coaches, specialists in
+      technique, goalkeeping coaches, trainers, sports doctors and
+      psychologists, physiotherapists, nutitionists, educators…) who perform
+      their duties with a maximum of intensity and involvement, offering a
+      professional personalized service to ensure maximum client satisfaction.
+  - heading: Environment
+    imageUrl: /img/home-about-section.jpg
+    text: >-
+      We provide integrated Waste Management services and solutions, through
+      unique and patented waste treatment technology that positions our group as
+      a leading company worldwide in this sector. Our extensive experience and
+      our constant investment in R+D, allow our group to excel in the numerous
+      projects we are involved in, projects that range from managing waste in
+      industries, camps, towns and cities, to even offering specific waste
+      management solutions to the offshore sectors.
 ---
 
