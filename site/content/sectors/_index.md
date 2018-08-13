@@ -16,7 +16,7 @@ sectors:
       We on an extended experience in the outsourcing services market and offers
       companies the most adequate and competitive solutions to promote your
       activities and improve your results.
-  - heading: Helthcare
+  - heading: Healthcare
     imageUrl: /img/about-sustainable-farming.jpg
     text: >-
       We provide cleaning and sanitizing solutions at the highest quality
