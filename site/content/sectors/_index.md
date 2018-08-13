@@ -3,7 +3,7 @@ title: Sectors
 image: /img/about-jumbotron.jpg
 sectors:
   - heading: Remote Sites
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: /img/remote_site.jpg
     text: >
       We through the experience gained serving the Oil & Gas, mining or
       construction industries is a specialist in anticipating the client’ s
