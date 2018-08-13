@@ -17,7 +17,7 @@ sectors:
       companies the most adequate and competitive solutions to promote your
       activities and improve your results.
   - heading: Healthcare
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: /img/healthcare.jpg
     text: >-
       We provide cleaning and sanitizing solutions at the highest quality
       levels, sourcing the most effective products from around the world and
