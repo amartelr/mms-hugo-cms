@@ -9,33 +9,42 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/catering.png
+      text: >+
+        MMS provides catering and hotel services for a wide range of sectors in
+        different places around the world.
+
+
+        We offer the best quality products at competitive prices and we work
+        with highly qualified professionals. Our capacity of adapting our
+        services to each customer’s requirements and satisfying the company's
+        necessities in record time is key to the correct execution of a project.
+
+
+    - image: /img/modular-building.png
+      text: >+
+        MMS offer industrializing construction services providing their
+        customers with comprehensive services, helping them to create and
+        develop their projects. This construction style guarantee the
+        flexibility and versatility needed to start an operation in a short term
+        adapting to any activity and worldwide location.
+
+
+    - image: /img/waste_management.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We offer transport, storage, treatment and recovery of waste systems, as
+        well as reuse of raw materials and final disposal of waste by controlled
+        and safe methods. Also, we provide a wide range of industrial cleaning
+        services with high added value.
+    - image: /img/laundry.png
+      text: >+
+        Our team offers a complete cleaning solution for any type of facilities
+        and surfaces. To optimize the process we analyze each area and organize
+        an action plan, using advanced disinfection and hygienic methods, with
+        the control of our supervisors to guarantee safe and cleaning
+        environments.
+
+
   heading: What we offer
   description: >+
     We offer a complete facility management for a wide range of companies
