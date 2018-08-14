@@ -34,7 +34,12 @@ products:
       and safe methods. Also, we provide a wide range of industrial cleaning
       services with high added value.
 sectors:
-  heading: Heading Sector
-  text: This is Heading Sector
+  heading: Remote Sites
+  text: >-
+    We through the experience gained serving the Oil & Gas, mining or
+    construction industries is a specialist in anticipating the client’ s needs,
+    offering them solutions that will improve their quality of life so they feel
+    at home when they are working in remote locations, hundreds of miles away or
+    in areas with difficult access.
 ---
 
