@@ -20,19 +20,19 @@ intro:
     industry or healthcare and our clients have always been satisfied with our
     services.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/modular-building.png
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
+      MMS offer industrializing construction services providing their customers
+      with comprehensive services, helping them to create and develop their
+      projects. This construction style guarantee the flexibility and
+      versatility needed to start an operation in a short term adapting to any
+      activity and worldwide location.
+  - image: /img/waste_management.png
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      We offer transport, storage, treatment and recovery of waste systems, as
+      well as reuse of raw materials and final disposal of waste by controlled
+      and safe methods. Also, we provide a wide range of industrial cleaning
+      services with high added value.
 sectors:
   heading: Heading Sector
   text: This is Heading Sector
