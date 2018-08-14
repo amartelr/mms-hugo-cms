@@ -8,17 +8,11 @@ image: /img/home-smoke.jpg
 blurb:
   heading: Why Us?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    By providing outstanding quality, service, cleanliness, safety, customer care and added value to all its projects and operations, so that our customers feel complete satisfaction in every project we manage worldwide.
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Our logistical experience and resources allow us to provide high quality and safe products from top class suppliers to any of the worldwide countries we operate in. We work for very specific and demanding sectors as the oil & gas industry or healthcare and our clients have always been satisfied with our services.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
