@@ -1,12 +1,10 @@
 ---
 title: Our Services
-image: /img/products-jumbotron.jpg
+image: /img/services.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Our constant innovation and efficient teams provide the best services adapting
+  our solutions to our customers’ requirements.
 intro:
   blurbs:
     - image: /img/catering.png
@@ -79,7 +77,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/products-full.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
