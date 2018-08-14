@@ -37,11 +37,14 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >+
+    We offer a complete facility management for a wide range of companies
+    operating in different industries: Oil and Gas, mining, construction,
+    defense, healthcare, education, sports or leisure. In order to fulfill and
+    satisfy the needs of our customers, we simplify the management process and
+    reduce costs by encompassing all your necessities in our company, MMS always
+    at your disposal, the excellence in Facility Management.
+
 main:
   heading: Great coffee with no compromises
   description: >
