@@ -31,14 +31,14 @@ sectors:
       available resources and offer the optimum solution to guarantee an
       excellent service.
   - heading: Sport & Leisure
-    imageUrl: /img/about-reinvest-profits.jpg
+    imageUrl: /img/sports.png
     text: >-
       Our workforce is made up of a multidisciplinary team of internationally
-      renowned expert football professionals (UEFA A coaches, specialists in
-      technique, goalkeeping coaches, trainers, sports doctors and
-      psychologists, physiotherapists, nutitionists, educators…) who perform
-      their duties with a maximum of intensity and involvement, offering a
-      professional personalized service to ensure maximum client satisfaction.
+      renowned expert football professionals (specialists in technique,
+      goalkeeping coaches, trainers, sports doctors and psychologists,
+      physiotherapists, nutitionists, educators…) who perform their duties with
+      a maximum of intensity and involvement, offering a professional
+      personalized service to ensure maximum client satisfaction.
   - heading: Environment
     imageUrl: /img/home-about-section.jpg
     text: >-
