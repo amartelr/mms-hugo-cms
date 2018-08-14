@@ -11,7 +11,7 @@ sectors:
       they feel at home when they are working in remote locations, hundreds of
       miles away or in areas with difficult access.
   - heading: Facility Management
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: /img/facility_management.png
     text: >-
       We on an extended experience in the outsourcing services market and offers
       companies the most adequate and competitive solutions to promote your
