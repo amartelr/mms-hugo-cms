@@ -23,8 +23,8 @@ sectors:
       levels, sourcing the most effective products from around the world and
       delivering them to any geographical location to exceed our customers’
       specifications.
-  - heading: Training
-    imageUrl: /img/about-direct-sourcing.jpg
+  - heading: Education
+    imageUrl: /img/education.png
     text: >-
       We provides services in educational centers and universities. Offering our
       know-how adapting to the institutions’ requirements to optimize the
