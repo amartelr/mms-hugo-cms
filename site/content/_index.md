@@ -35,6 +35,7 @@ products:
       services with high added value.
 sectors:
   heading: Remote Sites
+  imageUrl: /img/home-about-section.jpg
   text: >-
     We through the experience gained serving the Oil & Gas, mining or
     construction industries is a specialist in anticipating the client’ s needs,
