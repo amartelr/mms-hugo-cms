@@ -40,7 +40,7 @@ sectors:
       a maximum of intensity and involvement, offering a professional
       personalized service to ensure maximum client satisfaction.
   - heading: Environment
-    imageUrl: /img/home-about-section.jpg
+    imageUrl: /img/environment.png
     text: >-
       We provide integrated Waste Management services and solutions, through
       unique and patented waste treatment technology that positions our group as
