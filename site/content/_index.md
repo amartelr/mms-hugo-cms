@@ -20,14 +20,14 @@ intro:
     industry or healthcare and our clients have always been satisfied with our
     services.
 products:
-  - image: /img/modular-building.png
+  - image: /img/modular-building.jpg
     text: >-
       MMS offer industrializing construction services providing their customers
       with comprehensive services, helping them to create and develop their
       projects. This construction style guarantee the flexibility and
       versatility needed to start an operation in a short term adapting to any
       activity and worldwide location.
-  - image: /img/waste_management.png
+  - image: /img/waste_management.jpg
     text: >-
       We offer transport, storage, treatment and recovery of waste systems, as
       well as reuse of raw materials and final disposal of waste by controlled

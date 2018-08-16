@@ -7,7 +7,7 @@ description: >-
   our solutions to our customers’ requirements.
 intro:
   blurbs:
-    - image: /img/catering.png
+    - image: /img/catering.jpg
       text: >+
         MMS provides catering and hotel services for a wide range of sectors in
         different places around the world.
@@ -19,7 +19,7 @@ intro:
         necessities in record time is key to the correct execution of a project.
 
 
-    - image: /img/modular-building.png
+    - image: /img/modular-building.jpg
       text: >+
         MMS offer industrializing construction services providing their
         customers with comprehensive services, helping them to create and
@@ -28,13 +28,15 @@ intro:
         adapting to any activity and worldwide location.
 
 
-    - image: /img/waste_management.png
+    - image: /img/waste_management.jpg
       text: >
         We offer transport, storage, treatment and recovery of waste systems, as
         well as reuse of raw materials and final disposal of waste by controlled
         and safe methods. Also, we provide a wide range of industrial cleaning
         services with high added value.
-    - image: /img/laundry.png
+
+        
+    - image: /img/laundry.jpg
       text: >+
         Our team offers a complete cleaning solution for any type of facilities
         and surfaces. To optimize the process we analyze each area and organize

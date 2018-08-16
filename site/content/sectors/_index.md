@@ -11,7 +11,7 @@ sectors:
       they feel at home when they are working in remote locations, hundreds of
       miles away or in areas with difficult access.
   - heading: Facility Management
-    imageUrl: /img/facility_management.png
+    imageUrl: /img/facility_management.jpg
     text: >-
       We on an extended experience in the outsourcing services market and offers
       companies the most adequate and competitive solutions to promote your
@@ -24,14 +24,14 @@ sectors:
       delivering them to any geographical location to exceed our customers’
       specifications.
   - heading: Education
-    imageUrl: /img/education.png
+    imageUrl: /img/education.jpg
     text: >-
       We provides services in educational centers and universities. Offering our
       know-how adapting to the institutions’ requirements to optimize the
       available resources and offer the optimum solution to guarantee an
       excellent service.
   - heading: Sport & Leisure
-    imageUrl: /img/sports.png
+    imageUrl: /img/sports.jpg
     text: >-
       Our workforce is made up of a multidisciplinary team of internationally
       renowned expert football professionals (specialists in technique,
@@ -40,7 +40,7 @@ sectors:
       a maximum of intensity and involvement, offering a professional
       personalized service to ensure maximum client satisfaction.
   - heading: Environment
-    imageUrl: /img/environment.png
+    imageUrl: /img/environment.jpg
     text: >-
       We provide integrated Waste Management services and solutions, through
       unique and patented waste treatment technology that positions our group as
